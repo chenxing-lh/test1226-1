@@ -1,0 +1,19 @@
+{
+  "appKey": "jXemr0FZdBiHlhJmRGjnTceUKqlUvBt9",
+  "appSecret": "FRxlG3O71NFT3FIIL8xR26FCJ5AOVN0q",
+  "projectId": "2f35c219c36fcada853324f3b9280b3a",
+  "id": 314,
+  "name": "test",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/chenxing-lh/test1226-1.git",
+    "isPrivate": 0,
+    "username": "381606250@qq.com",
+    "password": "lh15627836616"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
